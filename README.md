@@ -1,4 +1,4 @@
-### 🐵양윤모  
+### 양윤모  
 ***Backend developer***
 
 
