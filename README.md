@@ -9,13 +9,18 @@
 
 ### **_Project_**
 
-[ _마이포폴_ ]  
-2025.02 ~ 2025.03 (3주)  
-포트폴리오 링크 리디렉션 URL 생성 서비스  
-<a href="https://mypopol.kr" target="_blank">https://mypopol.kr</a>
+[ _알쓰 커뮤니티_ ]  
+2025.10 ~ 2025.11 (4주)  
+알쓰들을 위한 커뮤니티  
+<a href="https://www.alss.kr" target="_blank">www.alss.kr</a>
 
 _<details><summary>더 보기</summary>_
 <br >
+[ _마이포폴_ ]  
+2025.02 ~ 2025.03 (3주)  
+포트폴리오 링크 리디렉션 URL 생성 서비스  
+<a href="https://github.com/momo-abcd/mypopol" target="_blank">github</a>
+
 [ _산뜻_ ]  
 2024.04 ~ 2024.05 (6주)  
 등산 커뮤니티 및 실시간 위치 파악 서비스  
